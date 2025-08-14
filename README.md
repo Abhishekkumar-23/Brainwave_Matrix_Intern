@@ -1,7 +1,7 @@
 #🛍️ E-commerce Sales Analysis using Python & Plotly
 This project analyzes sales data from a fictional superstore to uncover trends in sales, profit, product categories, and customer segments. It uses Python and Plotly to create interactive visualizations that make the insights easy to understand.
 
-📦 About the Dataset
+#📦 About the Dataset
 - File Name: Sample - Superstore.csv
 - Rows: 9,994
 - Columns: 21
