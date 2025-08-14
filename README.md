@@ -22,7 +22,6 @@ This project analyzes sales data from a fictional superstore to uncover trends i
 - Converted date columns to proper datetime format
 - Created new columns: Order Month, Order Year, Day of Week
 # 2. 📈 Visualization
----------------------------|-------------------|-------------------------------------------------- |
 | Topic                      | Chart Type        | Description                                     |
 |---------------------------|-------------------|--------------------------------------------------|
 | Monthly Sales             | Line Chart        | Shows how sales change month by month            |
@@ -34,7 +33,6 @@ This project analyzes sales data from a fictional superstore to uncover trends i
 | Segment Analysis          | Grouped Bar Chart | Shows sales and profit by customer segment       |
 | Sales-to-Profit Ratio     | Table             | Measures how efficiently each segment converts   |
 |                           |                   |   sales into profit                              |
----------------------------|-------------------|-------------------------------------------------- |
 
 # 📌 Key Insights
 - Consumer segment has the highest sales but lower profit margins.
